@@ -1,4 +1,4 @@
-# theme_seth
+# SethsTheme
 
 R package with Seth's custom ggplot2 theme
 
